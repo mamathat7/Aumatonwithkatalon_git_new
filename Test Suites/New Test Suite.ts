@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>2f3c5cbf-f9c9-4a91-90be-cfefeedfc013</testSuiteGuid>
    <testCaseLink>
-      <guid>a30f20d0-6cc2-4212-9e73-8cceacf8e2df</guid>
+      <guid>06a26b14-ccec-4693-a14c-b67b1c5daf04</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/New Test Case</testCaseId>
+      <testCaseId>Test Cases/CURA_LOGIN_0001</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

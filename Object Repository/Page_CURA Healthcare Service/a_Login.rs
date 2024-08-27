@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Logout</name>
+   <name>a_Login</name>
    <tag></tag>
-   <elementGuidId>20d9ea62-ef9a-44d4-a1a3-2c90ed6bff9e</elementGuidId>
+   <elementGuidId>2d295b1a-bac9-44fa-9ec5-0f70b770fa12</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>li:nth-of-type(5) > a</value>
+         <value>li:nth-of-type(3) > a</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[@onclick=&quot;$('#menu-close').click();&quot;])[5]</value>
+         <value>(//a[@onclick=&quot;$('#menu-close').click();&quot;])[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Logout&quot;i]</value>
+         <value>internal:role=link[name=&quot;Login&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5a0ef178-a13f-4497-9aef-978ebe2b4851</webElementGuid>
+      <webElementGuid>e0fbd821-48f3-4fb2-b3ed-4370e924f356</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>authenticate.php?logout</value>
-      <webElementGuid>c482deda-b4c6-4289-a191-047f9329c40d</webElementGuid>
+      <value>profile.php#login</value>
+      <webElementGuid>9d525bfd-db66-4114-ba55-76446824938e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,63 +45,63 @@
       <name>onclick</name>
       <type>Main</type>
       <value>$('#menu-close').click();</value>
-      <webElementGuid>5d118da0-ea83-474e-b804-a219638de0c2</webElementGuid>
+      <webElementGuid>9aaf5539-01a3-4ce5-a6aa-742232e48465</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Logout</value>
-      <webElementGuid>ae681be2-ed20-499c-8392-ae06c0942dfb</webElementGuid>
+      <value>Login</value>
+      <webElementGuid>496cbabf-299f-4442-959f-bf882af7fe4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;sidebar-wrapper&quot;)/ul[@class=&quot;sidebar-nav&quot;]/li[5]/a[1]</value>
-      <webElementGuid>283dc150-b219-449b-a21b-86a0d4e637c9</webElementGuid>
+      <value>id(&quot;sidebar-wrapper&quot;)/ul[@class=&quot;sidebar-nav&quot;]/li[3]/a[1]</value>
+      <webElementGuid>eede4c57-1df3-4250-a42e-92f5107df5a9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//a[@onclick=&quot;$('#menu-close').click();&quot;])[5]</value>
-      <webElementGuid>2fa2c878-6588-4d3d-94f8-dd9452385af7</webElementGuid>
+      <value>(//a[@onclick=&quot;$('#menu-close').click();&quot;])[3]</value>
+      <webElementGuid>22a68ea8-d290-4a91-907b-43e3c7cf581d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//nav[@id='sidebar-wrapper']/ul/li[5]/a</value>
-      <webElementGuid>a7ef16c3-be33-4711-b516-029479508640</webElementGuid>
+      <value>//nav[@id='sidebar-wrapper']/ul/li[3]/a</value>
+      <webElementGuid>595aa1c0-a67e-4249-949c-618306a759b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Logout')]</value>
-      <webElementGuid>f924625c-591a-4b51-a0c0-bc204316c0c2</webElementGuid>
+      <value>//a[contains(text(),'Login')]</value>
+      <webElementGuid>aa8edd44-f57c-45cb-9924-d8b70a67184f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::a[1]</value>
-      <webElementGuid>32eb3962-e7ad-42a1-88dc-68bb5f4a72de</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
+      <webElementGuid>3cb88f25-fbea-4517-b673-13934a4b6446</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/following::a[2]</value>
-      <webElementGuid>45ae51bf-6593-4e66-a800-71bab6837a8f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare'])[1]/following::a[2]</value>
+      <webElementGuid>492a3b87-b689-46e5-af37-36ee79c00c39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[2]/preceding::a[1]</value>
-      <webElementGuid>b5f0ed4d-c7a5-493f-b7b5-571e1b5bc0c2</webElementGuid>
+      <webElementGuid>ddf8a773-c5aa-48a8-9e33-e2a407b01f3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,38 +117,38 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='We Care About Your Health'])[1]/preceding::a[1]</value>
-      <webElementGuid>cb60a07b-e576-44f7-b237-8e1eef421475</webElementGuid>
+      <webElementGuid>bb7bc478-9475-4518-9e23-c83a4606e6ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
-      <webElementGuid>de5726af-d089-4284-9b2f-9ac45375ac81</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>0bf55732-615e-4c22-9288-50deaf91461b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'authenticate.php?logout')]</value>
-      <webElementGuid>6892b98c-73a3-4d1c-85ba-5e5054fea117</webElementGuid>
+      <value>//a[contains(@href, 'profile.php#login')]</value>
+      <webElementGuid>89fe346b-a8be-4010-bcd5-d38e31e29bb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[5]/a</value>
-      <webElementGuid>c6b6c6f5-e13d-43d8-8884-4fc5746951b9</webElementGuid>
+      <value>//li[3]/a</value>
+      <webElementGuid>4cf09d41-1333-4585-bcc5-463c0498d1c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'authenticate.php?logout' and (text() = 'Logout' or . = 'Logout')]</value>
-      <webElementGuid>e7f063ce-bdfc-42fc-ad92-ef6c9964c19c</webElementGuid>
+      <value>//a[@href = 'profile.php#login' and (text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>4e4e34bf-5077-4d7e-bc57-bc6c8b0cda1e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

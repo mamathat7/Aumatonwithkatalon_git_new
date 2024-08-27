@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5a0ef178-a13f-4497-9aef-978ebe2b4851</webElementGuid>
+      <webElementGuid>1f036533-1476-418e-875a-15cec72d39bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>authenticate.php?logout</value>
-      <webElementGuid>c482deda-b4c6-4289-a191-047f9329c40d</webElementGuid>
+      <webElementGuid>b1515a15-82d3-4227-970b-ccd7d8cda996</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>$('#menu-close').click();</value>
-      <webElementGuid>5d118da0-ea83-474e-b804-a219638de0c2</webElementGuid>
+      <webElementGuid>10b9036b-2744-4e58-8ce9-a979a5e365fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Logout</value>
-      <webElementGuid>ae681be2-ed20-499c-8392-ae06c0942dfb</webElementGuid>
+      <webElementGuid>8372ff48-9aa6-4f4b-b1a2-dcc4726a8411</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sidebar-wrapper&quot;)/ul[@class=&quot;sidebar-nav&quot;]/li[5]/a[1]</value>
-      <webElementGuid>283dc150-b219-449b-a21b-86a0d4e637c9</webElementGuid>
+      <webElementGuid>21ebf84d-01c1-4534-94a2-7e99bc126225</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//a[@onclick=&quot;$('#menu-close').click();&quot;])[5]</value>
-      <webElementGuid>2fa2c878-6588-4d3d-94f8-dd9452385af7</webElementGuid>
+      <webElementGuid>07bbfcec-74eb-4b31-8d57-ad4627dd2283</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//nav[@id='sidebar-wrapper']/ul/li[5]/a</value>
-      <webElementGuid>a7ef16c3-be33-4711-b516-029479508640</webElementGuid>
+      <webElementGuid>c786cff0-4731-4968-87ac-d6f34d45dc1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Logout')]</value>
-      <webElementGuid>f924625c-591a-4b51-a0c0-bc204316c0c2</webElementGuid>
+      <webElementGuid>20d2c727-1439-48be-8fe9-e79d08a4a44f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::a[1]</value>
-      <webElementGuid>32eb3962-e7ad-42a1-88dc-68bb5f4a72de</webElementGuid>
+      <webElementGuid>d098bec3-107c-4e49-bf5a-b0267e280cbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/following::a[2]</value>
-      <webElementGuid>45ae51bf-6593-4e66-a800-71bab6837a8f</webElementGuid>
+      <webElementGuid>4842d0b8-b6aa-4261-b773-1a35dcef9277</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[2]/preceding::a[1]</value>
-      <webElementGuid>b5f0ed4d-c7a5-493f-b7b5-571e1b5bc0c2</webElementGuid>
+      <webElementGuid>80d4dba4-41d5-49c1-89ec-e70c0bd039bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='We Care About Your Health'])[1]/preceding::a[1]</value>
-      <webElementGuid>cb60a07b-e576-44f7-b237-8e1eef421475</webElementGuid>
+      <webElementGuid>d24a17f9-6ecc-48ef-aebe-fc96b8c1a7df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
-      <webElementGuid>de5726af-d089-4284-9b2f-9ac45375ac81</webElementGuid>
+      <webElementGuid>b8eba0ff-48dd-4f87-bf73-115ca798e2d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'authenticate.php?logout')]</value>
-      <webElementGuid>6892b98c-73a3-4d1c-85ba-5e5054fea117</webElementGuid>
+      <webElementGuid>119a60b0-42b9-4f11-8a68-bcf774467837</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/a</value>
-      <webElementGuid>c6b6c6f5-e13d-43d8-8884-4fc5746951b9</webElementGuid>
+      <webElementGuid>cc2fef23-58a1-406e-907a-65191332ff8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'authenticate.php?logout' and (text() = 'Logout' or . = 'Logout')]</value>
-      <webElementGuid>e7f063ce-bdfc-42fc-ad92-ef6c9964c19c</webElementGuid>
+      <webElementGuid>6ea56a81-f326-47af-82a8-98082e6842f6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
